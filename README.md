@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-python
+```python
 class KeerthanaM:
     def __init__(self):
         self.degree      = "B.Tech – Artificial Intelligence & Data Science (Final Year)"
@@ -26,6 +26,7 @@ class KeerthanaM:
         self.learning    = ["Large Language Models", "MLOps", "Docker", "AWS"]
         self.goal        = "AI Engineer building impactful, real-world AI products"
         self.quote       = "AI is not just smarter machines — it's better lives."
+```
 
 ---
 

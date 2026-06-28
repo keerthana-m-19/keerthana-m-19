@@ -1,234 +1,138 @@
 <div align="center">
 
-# Hi 👋, I'm Keerthana M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Keerthana%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Building+Intelligent+AI+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+AI+Solutions;👁️+Computer+Vision+%26+Deep+Learning;🧠+Exploring+Large+Language+Models;🚀+Turning+Ideas+into+AI+Products" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthanam19)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanam6750@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthana-m-19)
+[![Profile Views](https://komarev.com/ghpvc/?username=keerthana-m-19&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/keerthana-m-19)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 Final Year B.Tech in Artificial Intelligence & Data Science
-
-🤖 Passionate about Artificial Intelligence, Machine Learning and Computer Vision.
-
-💡 I enjoy building AI solutions that solve real-world problems.
-
-🚀 Currently working on **SignSpeakAI**, an AI-powered Sign Language Recognition System.
-
-🌱 Currently learning
-
-- Large Language Models (LLMs)
-- MLOps
-- Docker
-- AWS
-- Advanced Deep Learning
-
-🎯 Goal
-
-Become an AI Engineer working on impactful AI products.
+```python
+class KeerthanaM:
+    def __init__(self):
+        self.degree      = "B.Tech – Artificial Intelligence & Data Science (Final Year)"
+        self.focus       = ["Computer Vision", "Deep Learning", "LLMs", "MLOps"]
+        self.building    = "SignSpeakAI — AI-powered Sign Language Recognition System"
+        self.learning    = ["Large Language Models", "MLOps", "Docker", "AWS"]
+        self.goal        = "AI Engineer building impactful, real-world AI products"
+        self.quote       = "AI is not just smarter machines — it's better lives."
+```
 
 ---
 
-# 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-
-<a href="www.linkedin.com/in/keerthanam19">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:keerthanam6750@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://github.com/keerthana-m-19">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
+### 🧠 AI & Machine Learning
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
-
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
-### AI & Machine Learning
+**Specialisations:** CNN · YOLOv8 · NLP · Transfer Learning · Computer Vision · Data Analytics
 
+### 💻 Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- CNN
-- YOLOv8
-- NLP
-- Data Analytics
-
----
-
-### Data Science
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-
----
-
-### Web Technologies
-
+### 📊 Data Science
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
----
-
-### Tools
-
+### 🌐 Web & Tools
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤟 SignSpeakAI
-
-AI-powered Sign Language Recognition using Deep Learning & Computer Vision.
-
-**Tech**
-
-- TensorFlow
-- CNN
-- OpenCV
-- Python
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🤟 **[SignSpeakAI](https://github.com/keerthana-m-19)** | AI-powered Sign Language Recognition — bridging communication gaps with Deep Learning & Computer Vision | TensorFlow · CNN · OpenCV · Python |
+| 👁️ **Real-Time Object Detection** | Live object detection pipeline using YOLOv8 and OpenCV for real-world scenes | YOLOv8 · OpenCV · Python |
+| 😊 **Emotion Recognition** | CNN-based facial emotion classifier detecting human expressions in real time | CNN · TensorFlow · OpenCV |
+| 📊 **Netflix Data Analysis** | End-to-end EDA — cleaning, visualisation, and storytelling with streaming data | Pandas · Matplotlib · Seaborn |
+| 💰 **Salary Prediction** | Regression model predicting salary from experience using KNN and feature engineering | Scikit-learn · KNN · Python |
 
 ---
 
-## 👁️ Real-Time Object Detection
+## 📈 GitHub Stats
 
-YOLOv8 + OpenCV
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=keerthana-m-19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-m-19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 😊 Emotion Recognition
+<br/>
 
-CNN-based Facial Emotion Detection
+<img src="https://streak-stats.demolab.com?user=keerthana-m-19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
----
+<br/>
 
-## 📊 Netflix Data Analysis
+<img src="https://github-profile-trophy.vercel.app/?username=keerthana-m-19&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
 
-EDA, Visualization and Insights
-
----
-
-## 💰 Salary Prediction
-
-KNN Regression
+</div>
 
 ---
 
-# 📈 GitHub Statistics
+## 🏅 Certifications & Recognition
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keerthana-m-19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-m-19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🎖️ AI, Machine Learning & Data Analytics — Internship Certification
+- 🎖️ AI Chatbot Development
+- 🎖️ AI Content Creation
+- 🎖️ Technical Workshops & Events Participation
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 Contribution Activity
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=keerthana-m-19&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keerthana-m-19&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-m-19&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📚 Certifications
-
-🏅 AI, Machine Learning & Data Analytics Internship
-
-🏅 AI Chatbot Development
-
-🏅 AI Content Creator
-
-🏅 Technical Workshops & Events
-
----
-
-# 💼 Currently Working On
-
-✔ SignSpeakAI
-
-✔ AI Final Year Project
-
-✔ Deep Learning
-
-✔ Computer Vision
-
-✔ MLOps
-
-✔ Docker
-
----
-
-# ✨ Quote
-
-> "Artificial Intelligence is not just about making machines smarter — it's about building solutions that improve people's lives."
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-m-19&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🌟 What I'm Working On Right Now
 
-<img src="https://komarev.com/ghpvc/?username=keerthana-m-19&label=Profile%20Views&color=0e75b6&style=flat"/>
+`SignSpeakAI` &nbsp;·&nbsp; `Deep Learning Research` &nbsp;·&nbsp; `MLOps & Docker` &nbsp;·&nbsp; `AWS Cloud` &nbsp;·&nbsp; `LLM Exploration`
+
+<br/>
+
+*"Artificial Intelligence is not just about making machines smarter —*
+*it's about building solutions that improve people's lives."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>

@@ -36,7 +36,7 @@ Become an AI Engineer working on impactful AI products.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/keerthanam19">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -58,7 +58,7 @@ Become an AI Engineer working on impactful AI products.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 
 </p>
 

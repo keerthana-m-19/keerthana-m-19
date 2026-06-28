@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Keerthana%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+AI+Solutions;👁️+Computer+Vision+%26+Deep+Learning;🧠+Exploring+Large+Language+Models;🚀+Turning+Ideas+into+AI+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning+Developer;Computer+Vision+Enthusiast;Building+AI+Solutions+for+Real-World+Problems;Exploring+LLMs%2C+MLOps+%26+Cloud+AI;Always+Learning+%7C+Always+Building+🚀" />
 
 <br/>
 

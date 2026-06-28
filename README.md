@@ -83,20 +83,31 @@ class KeerthanaM:
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=keerthana-m-19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-m-19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=keerthana-m-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<br/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-m-19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=keerthana-m-19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
 
-<br/>
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=keerthana-m-19&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+<img width="715" src="https://github-readme-streak-stats.herokuapp.com?user=keerthana-m-19&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-m-19&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=keerthana-m-19&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
 
 </div>
 

@@ -75,11 +75,11 @@ class KeerthanaM:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🤟 **[SignSpeakAI](https://github.com/keerthana-m-19)** | AI-powered Sign Language Recognition — bridging communication gaps with Deep Learning & Computer Vision | TensorFlow · CNN · OpenCV · Python |
-| 👁️ **Real-Time Object Detection** | Live object detection pipeline using YOLOv8 and OpenCV for real-world scenes | YOLOv8 · OpenCV · Python |
-| 😊 **Emotion Recognition** | CNN-based facial emotion classifier detecting human expressions in real time | CNN · TensorFlow · OpenCV |
-| 📊 **Netflix Data Analysis** | End-to-end EDA — cleaning, visualisation, and storytelling with streaming data | Pandas · Matplotlib · Seaborn |
-| 💰 **Salary Prediction** | Regression model predicting salary from experience using KNN and feature engineering | Scikit-learn · KNN · Python |
+| 🤟 **[SignSpeakAI](https://github.com/keerthana-m-19/SignSpeakAI)** | AI-powered Sign Language Recognition — bridging communication gaps with Deep Learning & Computer Vision | TensorFlow · CNN · OpenCV · Python |
+| 👁️ **[Real-Time Object Detection](https://github.com/keerthana-m-19/realtime-yolov8)** | Live object detection pipeline using YOLOv8 and OpenCV for real-world scenes | YOLOv8 · OpenCV · Python |
+| 😊 **[Emotion Recognition](https://github.com/keerthana-m-19/netflix-analysis)** | CNN-based facial emotion classifier detecting human expressions in real time | CNN · TensorFlow · OpenCV |
+| 📊 **[Netflix Data Analysis](https://github.com/keerthana-m-19/netflix-analysis)** | End-to-end EDA — cleaning, visualisation, and storytelling with streaming data | Pandas · Matplotlib · Seaborn |
+| 💰 **[Salary Prediction](https://github.com/keerthana-m-19/KNN-Salary-Estimation)** | Regression model predicting salary from experience using KNN and feature engineering | Scikit-learn · KNN · Python |
 
 ---
 
